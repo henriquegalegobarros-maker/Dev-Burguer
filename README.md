@@ -53,3 +53,4 @@ Este projeto faz parte da minha jornada de aprendizado em programação, buscand
 Desenvolvido por Henrique Galego Rodrigues de Barros 🚀
 
 https://github.com/henriquegalegobarros-maker/Dev-Burguer/blob/main/assets/Captura%20de%20tela%202026-11-26%201281519.png?raw=true
+https://github.com/henriquegalegobarros-maker/Dev-Burguer/blob/main/assets/Captura%20de%20tela%202026-11-26%2018133833.png?raw=true
